@@ -1,0 +1,17 @@
+.todo-footer {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.todo-footer-left #todo-check {
+	margin: 0 12px;
+}
+
+.todo-footer-right .btn-danger {
+	height: 32px;
+	background-color: orangered;
+	border: none;
+	border-radius: 3px;
+	color: #f1f1f1;
+}

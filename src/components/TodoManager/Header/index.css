@@ -1,0 +1,13 @@
+.todo-wrapper .todo-input {
+	width: 100%;
+	height: 40px;
+	border: 1px solid #ddd;
+	border-radius: 5px;
+	outline: none;
+	box-sizing: border-box;
+	text-indent: 12px;
+}
+
+.todo-wrapper .todo-input:focus {
+	box-shadow: 0 0 3px #000;
+}

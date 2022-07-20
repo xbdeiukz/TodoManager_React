@@ -1,0 +1,10 @@
+.todo-wrapper {
+	min-width: 320px;
+	max-width: 800px;
+	margin: 100px auto;
+	padding: 12px;
+	background-color: #fff;
+	border: 1px solid #eee;
+	border-radius: 5px;
+	box-shadow: 0 0 12px #000;
+}
